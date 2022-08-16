@@ -507,6 +507,12 @@ body {
 }
 
 @media screen and (max-width: 544px) {
+  .nav-list {
+    gap: 2.4rem;
+    margin-bottom: 2rem;
+    margin-top: 1rem;
+  }
+
   .featured-projects {
     padding: 3rem 0;
   }
