@@ -237,7 +237,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  gap: 6rem;
+  gap: 5.2rem;
 }
 
 .left-side {
@@ -263,7 +263,7 @@ body {
 
 .card {
   background-color: var(--bg-dark-light-2);
-  padding: 4rem 10rem;
+  padding: 4rem 7.4rem;
   text-align: center;
 }
 
@@ -518,9 +518,6 @@ body {
   .right-side {
     grid-template-columns: 1fr;
     width: 100%;
-  }
-
-  .card {
   }
 
   .project-cards {
